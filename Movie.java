@@ -1,5 +1,3 @@
-package lab1;
-
 /**
  * Movie class, represents a Movie object
  * @author ralexander
